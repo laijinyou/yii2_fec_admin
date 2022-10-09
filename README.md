@@ -91,7 +91,7 @@ composer install
 ```
 
 您可以**不使用上面的migrate安装**，
-您可以打开文件 `./vendor/fancyecommerce/fec_admin/doc/fecshop-2016-07-28.sql`
+您可以打开文件 `./vendor/laijinyou/yii2_fec_admin/doc/fecshop-2016-07-28.sql`
 将里面的sql导入到mysql中即可。
 
 4、配置NGINX
